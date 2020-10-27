@@ -17,7 +17,7 @@
 - 💬 Ask me about javascript or any tech related stuff.
 - 📫 How to reach me: Discord Epicer#0001
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours programming everyday. And its not going so well...
+- ⚡ Fun fact: No fun facts.
 
 [![GitHub codeswithjames](https://img.shields.io/github/followers/jamesthecoder?label=follow&style=social)](https://github.com/codeswithjames)
 [![website](https://img.shields.io/badge/PortfolioWebsite-jamesmesser.xyz-2648ff?style=flat-square&logo=google-chrome)](https://jamesmesser.xyz/)
