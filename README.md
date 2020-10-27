@@ -19,8 +19,8 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours programming everyday. And its not going so well...
 
-[![GitHub codeswithjames](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
+[![GitHub codeswithjames](https://img.shields.io/github/followers/jamesthecoder?label=follow&style=social)](https://github.com/iampawan)
+[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://jamesmesser.xyz/)
 
 
 **Languages and Tools:**  
