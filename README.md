@@ -30,7 +30,7 @@
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuOqRO22Hk02VmarUNI9CN3aIe_D0dsNEMog&usqp=CAU"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://cdn.mos.cms.futurecdn.net/hFm4iWXhbw4c4rdcMH8tUD.jpg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg"></code>    
 
 <a href="https://github.com/codeswithjames">
   <img align="center" src="https://komarev.com/ghpvc/?username=jamesthecoder&label=Views&color=blue&style=plastic" />
